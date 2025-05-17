@@ -18,7 +18,7 @@
 - Luthiena Džemre Akčinara, 3. grupa | 241RDB111
 - Justīne Pavārniece, 15. grupa | 241RDC039
 
-## Projekta Pamatmērķi un Uzdevumi
+## Projekta Pamatmērķi un Uzdevumi 🎯
 
 Šī projekta mērķis ir izveidot tīmekļa lietotni, kas ļauj lietotājam:
 
