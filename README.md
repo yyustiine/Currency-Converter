@@ -23,14 +23,14 @@
 Šī projekta mērķis ir izveidot tīmekļa lietotni, kas ļauj lietotājam:
 
 1. **Veikt valūtu konvertēšanu:** Izmantojot API, lietotājs var konvertēt jebkuru summu starp populārākajām valūtām.
-2. **Apskatīt 10 populārāko valūtu kursus pasaulē:** Balstoties uz izvēlēto bāzes valūtu, tiek parādīts aktuālais kurss pret pārējām.
+2. **Apskatīt 10 populārāko valūtu kursus pasaulē:** Balstoties uz izvēlēto galveno valūtu, tiek parādīts aktuālais kurss pret pārējām.
 3. **Redzēt vēsturisko kursa izmaiņu grafiku:** Tiek ģenerēts grafiks ar izvēlētās valūtas attiecību pret USD pēdējā gada laikā.
 
 ---
 
 ## Uzdevumu padziļinātais skaidrojums
 `Valūtu kursu konversija`: Lietotājs ievada summu un izvēlas sākotnējo un mērķa valūtu. Izmantojot Flask izsauc FreeCurrencyAPI, tiek iegūts aktuālais kurss, aprēķināts rezultāts un izvadīts lietotājam.
-`Populārāko valūtu saraksts`: Lietotājs var apskatīt 10 populārākās pasaules valūtas pēc izvēlētās bāzes valūtas. Informācija tiek attēlota sarakstā.
+`Populārāko valūtu saraksts`: Lietotājs var apskatīt 10 populārākās pasaules valūtas pēc izvēlētās galvenās valūtas. Informācija tiek attēlota sarakstā.
 `Kursa izmaiņu grafiks`: Ar matplotlib palīdzību tiek uzzīmēts vēsturisks valūtas kurss pret USD, pamēnešiem (pirms 12 mēnešiem). Grafiks tiek automātiski saglabāts kā kā attēls `static/chart.png`.
 
 ---
