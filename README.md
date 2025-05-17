@@ -37,7 +37,7 @@
 
 ---
 
-## Izmantoto Python bibliotēku saraksts un izmantošanas skaidrojums
+## Izmantoto Python bibliotēku saraksts un izmantošanas skaidrojums🐍
 
 Šajā projektā izmantotas šadas bibliotēkas:
 
@@ -49,14 +49,14 @@
 
 ---
 
-## Programmatūras izmantošanas metodes
+## Programmatūras izmantošanas metodes 🧠
 
 Lietotni iespējams izmantot šādos veidos:
 
-1. **Ceļotājiem:** Ātri pārrēķināt valūtas jebkurā valstī.
-2. **Finanšu analītiķiem:** Pārbaudīt, kā izvēlētās valūtas kurss ir mainījies pēdējo mēnešu laikā.
-3. **Studentiem un skolotājiem:** Analizēt ekonomikas un finanšu tēmas ar vizuālu atbalstu.
-4. **Izglītības mērķiem:** Projekts parāda, kā savienot HTML, Python, API un datu vizualizāciju.
+1. 🧳 **Ceļotājiem:** Ātri pārrēķināt valūtas jebkurā valstī.
+2. 📈 **Finanšu analītiķiem:** Pārbaudīt, kā izvēlētās valūtas kurss ir mainījies pēdējo mēnešu laikā.
+3. 🧪 **Studentiem un skolotājiem:** Analizēt ekonomikas un finanšu tēmas ar vizuālu atbalstu.
+4. 🧰 **Izglītības mērķiem:** Projekts parāda, kā savienot HTML, Python, API un datu vizualizāciju.
 
 ---
 
