@@ -69,7 +69,7 @@ Lietotni iespējams izmantot šādos veidos:
 
 ---
 
-## Izmantotie avoti
+## Izmantotie avoti 🖼 
 
 1. https://freecurrecyapi.com/ - API valūtas datu iegūšanai.
 2. https://matplotlib.org/ - Dokumentācija par grafiku zīmēšanu ar `matplotlib`.
