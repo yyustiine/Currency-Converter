@@ -29,7 +29,7 @@
 ---
 
 ## Uzdevumu padziļinātais skaidrojums
-`Valūtu konvertēšana`: Lietotājs ievada summu un izvēlas sākotnējo un mērķa valūtu. Izmantojot FreeCurrencyAPI, tiek iegūts aktuālais kurss un aprēķināts rezultāts.
+`Valūtu kursu konversija`: Lietotājs ievada summu un izvēlas sākotnējo un mērķa valūtu. Izmantojot Flask izsauc FreeCurrencyAPI, tiek iegūts aktuālais kurss, aprēķināts rezultāts un izvadīts lietotājam.
 `Populārāko valūtu saraksts`: Lietotājs var apskatīt 10 populārākās pasaules valūtas pēc izvēlētās bāzes valūtas. Informācija tiek attēlota sarakstā.
 `Kursa izmaiņu grafiks`: Ar matplotlib palīdzību tiek uzzīmēts vēsturisks valūtas kurss pret USD, pamēnešiem (pirms 12 mēnešiem). Grafiks tiek automātiski saglabāts kā kā attēls `static/chart.png`.
 
