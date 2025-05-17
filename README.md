@@ -60,11 +60,11 @@ Lietotni iespējams izmantot šādos veidos:
 
 ---
 
-## Programmatūras konfigurēšana un palaišana
+## Programmatūras konfigurēšana un palaišana⚙️
 1. Klonēt GitHub repozitoriju.
 2. Instalēt vajadzīgās bibliotēkas.
-3. Pārliecināties, ka mape `static/` eksistē (programmatūra to izveido automātiski).
-4. Palaist programmu ar komandu:
+3. Pārliecināties, ka mape `static/` eksistē (app.py fails to izveido automātiski).
+4. Palaist programmu ar komandu: python app.py
 5. Atvērt pārlūkprogrammā: `http://127.0.0.1:5000/`
 
 ---
