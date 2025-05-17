@@ -14,7 +14,7 @@
 
 ---
 
-## Projekta Autori
+## Projekta Autori 👤
 - Luthiena Džemre Akčinara, 3. grupa | 241RDB111
 - Justīne Pavārniece, 15. grupa | 241RDC039
 
