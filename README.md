@@ -24,7 +24,7 @@
 
 1. **Veikt valūtu konvertēšanu:** Izmantojot API, lietotājs var konvertēt jebkuru summu starp populārākajām valūtām.
 2. **Apskatīt 10 populārāko valūtu kursus pasaulē:** Balstoties uz izvēlēto bāzes valūtu, tiek parādīts aktuālais kurss pret pārējām.
-3. **Redzēt vēsturisko kursa izmaiņu grafiku:** Tiek ģenerēts grafiks ar izvēlētās valūtas attiecību pret USD pēdējo 12 mēnešu laikā.
+3. **Redzēt vēsturisko kursa izmaiņu grafiku:** Tiek ģenerēts grafiks ar izvēlētās valūtas attiecību pret USD pēdējā gada laikā.
 
 ---
 
